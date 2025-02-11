@@ -1,0 +1,17 @@
+chmod +x JPE
+chmod +x RC1
+chmod +x RC2
+chmod +x RC3
+chmod 777 JPE
+chmod 777 RC1
+chmod 777 RC2
+chmod 777 RC3
+chmod +x script/RC1.bms
+chmod +x script/RC2.bms
+chmod +x script/RC3
+chmod +x script/quickbms
+chmod 777 script/RC1.bms
+chmod 777 script/RC2.bms
+chmod 777 script/RC3
+chmod 777 script/quickbms
+"./JPE"
